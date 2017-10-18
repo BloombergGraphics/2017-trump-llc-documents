@@ -1,0 +1,2918 @@
+1,4 SHADOW TREE LANE LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,4 SHADOW TREE LANE MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+2,4 SHADOW TREE LANE MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,4 SHADOW TREE LANE LLC,1.00%,Managing Member,
+,,,,,
+3,"40 Wall Development Associates, LLC *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,"Parc Consulting, Inc",,Member
+,,99.9,The Donald J. Trump Revocable Trust,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,40 Wall Street LLC,99.90%,Member,
+,,,,,
+4,40 WALL STREET COMMERCIAL LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"40 Wall Development Associates, LLC",,Member
+,,,,,
+5,40 WALL STREET LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,40 Wall Street Member Corp,,Managing Member
+,,99.9,"40 Wall Development Associates, LLC",,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,40 WALL STREET COMMERCIAL LLC,100%,Member,
+,,,,,
+6,40 WALL STREET MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"40 Wall Development Associates, LLC",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,40 Wall Street LLC,0.10%,Managing Member,
+,,,,,
+7,401 MEZZ VENTURE LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP CHICAGO MANAGING MEMBER LLC,,Managing Member
+,,49,TRUMP CHICAGO MEMBER LLC,,Member
+,,50,TIHT CHICAGO MEMBER ACQUISITION LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,401 North Wabash Venture LLC,100%,Member,
+,,TRUMP CHICAGO RETAIL LLC,100%,Member,
+,,,,,
+8,401 NORTH WABASH VENTURE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,401 MEZZ VENTURE LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP COMMERCIAL CHICAGO LLC,100%,Member,
+,,TRUMP PAYROLL CHICAGO LLC,100%,Managing Member,
+,,,,,
+9,809 NORTH CANON LLC,,,,
+,Owned by:,% Ownership,Name,Role,
+,,1,809 NORTH CANON MEMBER CORPORATION,Managing Member,
+,,99,DJT HOLDINGS LLC,Member,
+,,,,,
+10,809 NORTH CANON MEMBER CORPORATION *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity name,Ownership,Title,
+,,809 NORTH CANON LLC,1.00%,Managing Member,
+,,,,,
+11,81 Pine Note Holder Inc *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Shareholder
+,,,,,
+12,845 UN Limited Partnership,,,,
+,Owned by:,% Ownership,Name,,Role
+,,60,Trump 845 LP LLC,,Partner
+,,40,Trump 845 UN GP LLC,,Partner
+,,,,,
+13,Ace Entertainment Holdings Inc *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Shareholder
+,,,,,
+14,All County Building Supply & Maintenance Corp *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT HOLDINGS LLC,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+15,Aviation Payroll Company *(2),,,,
+,Owned by:,%Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+16,B. Plaza Realty Corp *(3) -- Dissolved 11/10/16,,,,
+,Owned by:,% Ownership:,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,,,,,
+17,Beach Haven Apartments #3 LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,The Donald J. Trump Revocable Trust,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+18,"Beach Haven Apt #1, Inc *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,The Donald J. Trump Revocable Trust,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"Starrett City Associates, LP",0.21%,Partner,
+,,Spring Creek Plaza LLC,0.21%,Member,
+,,,,,
+19,Beach Haven Mgt. Corp *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,"Trump, Donald J.",,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+20,Beach Haven Shopping Center LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT HOLDINGS LLC,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+21,Bedford Hills Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Seven Springs LLC,0.10%,Member,
+,,,,,
+22,TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC *(2),,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,"BRIARCLIFF PROPERTIES, INC",,Member
+,,99.9,DJT HOLDINGS LLC,,Member
+,,,,,
+23,Briar Hall Operations LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,Development Member Inc,,Member
+,,99.9,DJT HOLDINGS LLC,,Member
+,,,,,
+24,"BRIARCLIFF PROPERTIES, INC *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name:,Ownership,Title,
+,,BRIAR HALL DEVELOPMENT LLC (N/K/A TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC),0.10%,Member,
+,,,,,
+25,"Caribusiness Investments, S.R.L.",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THE CARIBUSINESS RE CORP,,Member
+,,99,CARIBUSINESS MRE LLC,,Member
+,,,,,
+26,CARIBUSINESS MRE LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THE CARIBUSINESS RE CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"Caribusiness Investments, S.R.L.",99%,Member,
+,,,,,
+27,Chelsea Hall LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT Holdings LLC,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+28,CHICAGO UNIT ACQUISITION LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+29,CHINA TRADEMARK LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+30,"Clyde Hall, Inc *(3)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT Holdings LLC,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+31,"Coronet Hall, Inc *(3)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT Holdings LLC,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+32,"Country Apartments, LLC",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT Holdings LLC,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+33,Country Investors LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT Holdings LLC,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+34,"Country Properties, LLC",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT Holdings LLC,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+35,D B PACE ACQUISITION MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"D B Pace Acquisition, LLC",1.00%,Managing Member,
+,,,,,
+36,"D B Pace Acquisition, LLC",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,D B PACE ACQUISITION MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+37,Development Member Inc *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Briar Hall Operations LLC,0.10%,Member,
+,,,,,
+38,DJ Aerospace (Bermuda) Limited *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Shareholder
+,,,,,
+39,DJT AEROSPACE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+40,DJT ENTREPRENEUR MANAGING MEMBER LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC),0.10%,Managing Member,
+,,,,,
+41,DJT ENTREPRENEUR MEMBER LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC),91.90%,Member,
+,,,,,
+42,DJT HOLDINGS LLC,,,,
+,Assumed Names,D/B/A,Jurisdiction,Expiration Date,Filing Date
+,,DJT 3 HOLDINGS LLC,Florida,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DJT HOLDINGS MANAGING MEMBER LLC,,Managing Member
+,,99,The Donald J. Trump Revocable Trust,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,4 SHADOW TREE LANE LLC,99%,Member,
+,,809 NORTH CANON LLC,99%,Member,
+,,BRIAR HALL DEVELOPMENT LLC (N/K/A TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC,99%,Member,
+,,DT CONNECT II LLC,99%,Member,
+,,TRUMP NATIONAL GOLF CLUB - JUPITER,99%,Member,
+,,LFB ACQUISITION LLC,99%,Member,
+,,PINE HILL DEVELOPMENT LLC,99%,Member,
+,,Seven Springs LLC,99.90%,Member,
+,,TIHT CHICAGO MEMBER ACQUISITION LLC,100%,Member,
+,,TRUMP NATIONAL GOLF CLUB - CHARLOTTE,99%,Member,
+,,TRUMP NATIONAL GOLF CLUB - HUDSON VALLEY,99%,Member,
+,,TNGC JUPITER MANAGEMENT LLC,99%,Member,
+,,TRUMP NATIONAL GOLF CLUB - PHILADELPHIA,99%,Member,
+,,TRUMP CHICAGO MANAGING MEMBER LLC,100%,Member,
+,,TRUMP CHICAGO MEMBER LLC,100%,Member,
+,,TRUMP NATIONAL DORAL,99%,Member,
+,,TRUMP LAS VEGAS MANAGING MEMBER LLC,94%,Member,
+,,TRUMP LAS VEGAS MEMBER LLC,94%,Member,
+,,TRUMP MARKS ASIA LLC,99%,Member,
+,,TRUMP NATIONAL GOLF CLUB - WESTCHESTER,99%,Member,
+,,TRUMP NATIONAL GOLF CLUB - WASHINGTON DC,99%,Member,
+,,TRUMP OLD POST OFFICE LLC,76.73%,Member,
+,,TRUMP SCOTSBOROUGH SQUARE LLC,99%,Member,
+,,TRUMP VINEYARD ESTATES LLC,99%,Member,
+,,TRUMP VIRGINIA LOT 5 LLC,99%,Member,
+,,TRUMP WINE MARKS LLC,99%,Member,
+,,TURNBERRY SCOTLAND LLC,99%,Member,
+,,TW VENTURE I LLC,99%,Member,
+,,TW VENTURE II LLC,99%,Member,
+,,WHITE COURSE LLC,99%,Member,
+,,OPO HOTEL MANAGER LLC,76.50%,Member,
+,,THC VENTURE I LLC,99%,Member,
+,,,,,
+43,DJT HOLDINGS MANAGING MEMBER LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,Member,
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DJT HOLDINGS LLC,1.00%,Managing Member,
+,,,,,
+44,DJT LAND HOLDINGS MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT ENTREPRENEUR MEMBER LLC,,Shareholder
+,,,,,
+45,DJT OPERATIONS CX LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+46,DJT OPERATIONS I LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+47,DJT OPERATIONS II LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TAG AIR INC,100.00%,Shareholder,
+,,,,,
+48,Donald J. Trump Enterprises LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,Trump Family Members,,Member
+,,,,,
+49,Donald J. Trump Enterprises II LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,Trump Family Members,,Member
+,,,,,
+50,Donald J. Trump Enterprises III LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,Trump Family Members,,Member
+,,,,,
+51,DSN LICENSING LLC *(3) -- Dissolved 11/09/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,"Trump, Donald J.",,Member
+,,99,DSN LICENSING MEMBER CORP,,Managing Member
+,,,,,
+52,DSN LICENSING MEMBER CORP *(3) -- Dissolved 11/09/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DSN LICENSING LLC,99%,Managing Member,
+,,,,,
+53,DT APP WARRANT HOLDING LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT APP WARRANT HOLDING MANAGING MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+54,DT APP WARRANT HOLDING MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT APP WARRANT HOLDING LLC,1%,Managing Member,
+,,,,,
+55,DT CONNECT II LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT CONNECT II MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+56,DT CONNECT II MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT CONNECT II LLC,1.00%,Managing Member,
+,,,,,
+57,DT CONNECT LLC *(5) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT CONNECT MANAGING MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+58,DT CONNECT MANAGING MEMBER CORP *(1) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT CONNECT LLC,1%,Managing Member,
+,,,,,
+59,DT DUBAI GOLF MANAGER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT DUBAI GOLF MANAGER MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+60,DT DUBAI GOLF MANAGER MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT DUBAI GOLF MANAGER LLC,1%,Managing Member,
+,,,,,
+61,DT DUBAI II GOLF MANAGER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT DUBAI II GOLF MANAGER MEMBER CORP,,Managing Member
+,,99,THC VENTURE III LLC - N/K/A TTTT VENTURE LLC *(1),,Member
+,,,,,
+62,DT DUBAI II GOLF MANAGER MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT DUBAI II GOLF MANAGER LLC,1%,Managing Member,
+,,,,,
+63,DT HOME MARKS INTERNATIONAL LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT HOME MARKS INTERNATIONAL MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+64,DT HOME MARKS INTERNATIONAL MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT HOME MARKS INTERNATIONAL LLC,1%,Managing member,
+,,,,,
+65,DT INDIA VENTURE LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT INDIA VENTURE MANAGING MEMBER CORP,,Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+66,DT INDIA VENTURE MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT INDIA VENTURE LLC,1%,Member,
+,,,,,
+67,DT MARKS BAKU LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS BAKU MANAGING MEMBER CORP,,Managing member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+68,DT MARKS BAKU MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT MARKS BAKU LLC,1%,Managing Member,
+,,,,,
+69,DT MARKS DUBAI II LLC *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS DUBAI II MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+70,DT MARKS DUBAI II MEMBER CORP *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,,,,,
+71,DT MARKS DUBAI LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS DUBAI MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+72,DT MARKS DUBAI MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT MARKS DUBAI LLC,1%,Managing Member,
+,,,,,
+73,DT MARKS GURGAON LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS GURGAON MANAGING MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+74,DT MARKS GURGAON MANAGING MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,,,,,
+75,DT MARKS JERSEY CITY LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS LLC,,Member
+,,,,,
+76,DT MARKS JUPITER LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS LLC,,Managing Member
+,,,,,
+77,DT MARKS PRODUCTS INTERNATIONAL LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS PRODUCTS INTERNATIONAL MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+78,DT MARKS PRODUCTS INTERNATIONAL MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT MARKS PRODUCTS INTERNATIONAL LLC,1%,Managing Member,
+,,,,,
+79,DT MARKS PUNE II LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS PUNE II MANAGING MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+80,DT MARKS PUNE II MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,,,,,
+81,DT MARKS PUNE LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS PUNE MANAGING MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+82,DT MARKS PUNE MANAGING MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT MARKS PUNE LLC,1%,Managing Member,
+,,,,,
+83,DT MARKS QATAR LLC *(3) -- Dissolved 1/26/17,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS QATAR MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+84,DT MARKS QATAR MEMBER CORP *(3) -- Dissolved 1/26/17,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,,,,
+85,DT MARKS RIO LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS RIO MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+86,DT MARKS RIO MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT MARKS RIO LLC,100%,Managing Member,
+,,,,,
+87,DT MARKS VANCOUVER LP,,,,
+,Owned by:,% Ownership,Name,Title,
+,,1,DT MARKS VANCOUVER MEMBER CORP,General Partner,
+,,99,The Donald J. Trump Revocable Trust,,Limited Partner
+,,,,,
+88,DT MARKS VANCOUVER MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT MARKS VANCOUVER LP,1.000000 units (100%),General Partner,
+,,,,,
+89,DT Marks Worli LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT Marks Worli Member Corp,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+90,DT Marks Worli Member Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT Marks Worli LLC,1%,Managing Member,
+,,,,,
+91,DT TOWER GURGAON LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT TOWER GURGAON MANAGING MEMBER CORP,,Managing Member
+,,99,THC VENTURE III LLC - N/K/A TTTT VENTURE LLC *(1),,Member
+,,,,,
+92,DT TOWER GURGAON MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT TOWER GURGAON LLC,1.00%,Managing Member,
+,,,,,
+93,DTW VENTURE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+94,DTW VENTURE MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+95,EID Venture I Corporation *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,,,,,
+96,EID Venture I LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS LLC,,Member
+,,,,,
+97,Excel Venture I Corporation *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Excel Venture I LLC,1.00%,Managing Member,
+,,,,,
+98,Excel Venture I LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,Excel Venture I Corporation,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+99,Fifty-Seven Management Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Fifty-Seventh Street Associates LLC,1.00%,Managing Member,
+,,,,,
+100,Fifty-Seventh Street Associates LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,Fifty-Seven Management Corp,,Managing Member
+,,99,The Trump-Equitable Fifth Avenue Company,,Member
+,,,,,
+101,FIRST MEMBER INC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP PALACE/PARC LLC,0.10%,Managing Member,
+,,,,,
+102,FLIGHTS INC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+103,FLORIDA PROPERTIES MANAGEMENT LLC *(2),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+104,Fountainbleu Apartments LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT HOLDINGS LLC,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+105,Golf Productions LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,Golf Productions Member Corp,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+106,Golf Productions Member Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Golf Productions LLC,1.00%,Managing Member,
+,,,,,
+107,Golf Recreation Scotland Limited *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TURNBERRY SCOTLAND LLC,,Sole Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP TURNBERRY,100%,Shareholder,
+,,,,,
+108,HELICOPTER AIR SERVICES INC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+109,"Highlander Hall, Inc *(3) -- no longer reportable",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,"Trump, Donald J.",,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+110,"Hudson Waterfront Associates I, LP *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,HUDSON WATERFRONT I CORPORATION,,Partner
+,,69,"HUDSON WESTSIDE ASSOCIATES I, LP",,Partner
+,,30,The Donald J. Trump Revocable Trust,,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"HWA 555 Owners, LLC",100%,Partner,
+,,,,,
+111,"Hudson Waterfront Associates II, LP *(5)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,HUDSON WATERFRONT II CORPORATION,,Partner
+,,69,"HUDSON WESTSIDE ASSOCIATES II, LP",,Partner
+,,30,The Donald J. Trump Revocable Trust,,Partner
+,,,,,
+112,"Hudson Waterfront Associates III, LP *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,HUDSON WATERFRONT III CORPORATION,,Partner
+,,69,"HUDSON WESTSIDE ASSOCIATES III, LP",,Partner
+,,30,The Donald J. Trump Revocable Trust,,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,HWA 1290 III LLC,100%,Partner,
+,,,,,
+113,"Hudson Waterfront Associates IV, LP *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,HUDSON WATERFRONT IV CORPORATION,,Partner
+,,69,"HUDSON WESTSIDE ASSOCIATES IV, LP",,Partner
+,,30,The Donald J. Trump Revocable Trust,,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,HWA 1290 IV LLC,100%,Partner,
+,,,,,
+114,"Hudson Waterfront Associates V, LP *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,HUDSON WATERFRONT V CORPORATION,,Partner
+,,69,"HUDSON WESTSIDE ASSOCIATES V, LP",,Partner
+,,30,The Donald J. Trump Revocable Trust,,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,HWA 1290 V LLC,100%,Partner,
+,,,,,
+115,"Hudson Waterfront Associates, LP *(3)  -- no longer reportable",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,HUDSON WATERFRONT CORPORATION,,Partner
+,,69,"HUDSON WESTSIDE ASSOCIATES, LP",,Partner
+,,30,"Trump, Donald J.",,Partner
+,,,,,
+116,Indian Hills Holdings LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+117,TRUMP NATIONAL GOLF CLUB - JUPITER,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,JUPITER GOLF CLUB MANAGING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+118,JUPITER GOLF CLUB MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - JUPITER,1%,Managing Member,
+,,,,,
+119,LAMINGTON FAMILY HOLDINGS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+120,TRUMP NATIONAL GOLF CLUB - BEDMINSTER,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,LFB ACQUISITION LLC,,Member
+,,,,,
+121,Lawrence Towers Apartments LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT HOLDINGS LLC,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+122,LFB ACQUISITION LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,LFB ACQUISITION MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - BEDMINSTER,100%,Member,
+,,,,,
+123,LFB ACQUISITION MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,LFB ACQUISITION LLC,1%,Managing Member,
+,,,,,
+124,"MALC, Inc *(3) -- no longer reportable",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,MAR-A-LAGO CLUB INC,,Shareholder
+,,,,,
+125,MAR-A-LAGO CLUB INC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"MAR-A-LAGO CLUB, L.L.C",0.01%,Member,
+,,"MALC, Inc",100%,Shareholder,
+,,,,,
+126,"MAR-A-LAGO CLUB, L.L.C.",,,,
+,Assumed Names,D/B/A,,,
+,,"MAR-A-LAGO CLUB, L.L.C., L.C.",,,
+,Owned by:,% Ownership,Name,,Role
+,,0.01,MAR-A-LAGO CLUB INC,,Member
+,,99.99,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+127,Midland Associates *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT HOLDINGS LLC,,Partner
+,,75,Trump Family Members,,Partner
+,,,,,
+128,"NITTO WORLD CO., LIMITED *(3)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP TURNBERRY,,Shareholder
+,,,,,
+129,OCEAN DEVELOPMENT MEMBER INC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,OCEAN DEVELOPMENT SERVICES LLC,1%,Member,
+,,,,,
+130,OCEAN DEVELOPMENT SERVICES LLC *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,99,"Trump, Donald J.",,Member
+,,1,OCEAN DEVELOPMENT MEMBER INC,,Member
+,,,,,
+131,One Central Park West Associates *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,50,TRUMP CENTRAL PARK WEST CORP,,Partner
+,,50,"GALBREATH COLUMBUS CIRCLE DEVELOPMENT ASSOCIATES, LP",,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,One Central Park West PT Associates,34.30%,Member,
+,,,,,
+132,One Central Park West PT Associates *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,34.3,One Central Park West Associates,,Partner
+,,65.7,"CPW PT Partners, G.P.",,Partner
+,,,,,
+133,OPO HOTEL MANAGER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,OPO HOTEL MANAGER MEMBER CORP,,Managing Member
+,,22.5,Trump Family Members,,Member
+,,76.5,DJT HOLDINGS LLC,,Member
+,,,,,
+134,OPO HOTEL MANAGER MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,OPO HOTEL MANAGER LLC,1%,Managing Member,
+,,,,,
+135,OWO DEVELOPER LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+136,PANAMA OCEAN CLUB MANAGEMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,PANAMA OCEAN CLUB MANAGEMENT MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+137,PANAMA OCEAN CLUB MANAGEMENT MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,PANAMA OCEAN CLUB MANAGEMENT LLC,1%,Managing Member,
+,,,,,
+138,Paramount RPV Holdings LLC *(3) -- Dissolved 10/14/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,Paramount RPV Holdings Manager Corp,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+139,Paramount RPV Holdings Manager Corp *(3) -- Dissolved 10/14/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Paramount RPV Holdings LLC,1%,Managing Member,
+,,,,,
+140,"Parc Consulting, Inc *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"40 Wall Development Associates, LLC",0.10%,Member,
+,,,,,
+141,Park Briar Associates *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,The Donald J. Trump Revocable Trust,,Partner
+,,75,Trump Family Members,,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"Starrett City Associates, LP",0.37%,Partner,
+,,Spring Creek Plaza LLC,0.37%,Member,
+,,,,,
+142,PINE HILL DEVELOPMENT LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,PINE HILL DEVELOPMENT MANAGING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+143,PINE HILL DEVELOPMENT MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,PINE HILL DEVELOPMENT LLC,1%,Managing Member,
+,,,,,
+144,Plaza Consulting Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"The East 61 Street Company, LP",0.10%,Partner,
+,,,,,
+145,POKER VENTURE LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,POKER VENTURE MANAGING MEMBER CORP,,Shareholder
+,,99,DTTM OPERATIONS LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"The East 61 Street Company, LP",0.10%,Partner,
+,,,,,
+146,POKER VENTURE MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,POKER VENTURE LLC,1%,Managing Member,
+,,,,,
+147,"Reg-Tru Equities, LTD *(3)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+148,RESTAURANT 40 LLC *(3) -- Dissolved 11/9/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,Restaurant 40 Member Corp,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+149,RESTAURANT 40 MEMBER CORP *(3)  -- Dissolved 11/9/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,,,,,
+150,RPV DEVELOPMENT LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - LOS ANGELES,100%,Shareholder,
+,,,,,
+151,SCOTLAND ACQUISITIONS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+152,SENTIENT JETS MEMBER CORP *(3) -- Dissolved 11/9/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP JETS LLC,1%,Managing Member,
+,,,,,
+153,Seven Springs LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,Bedford Hills Corp,,Managing Member
+,,99.9,DJT HOLDINGS LLC,,Member
+,,,,,
+154,"Shore Haven Apt #1, Inc *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,The Donald J. Trump Revocable Trust,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Starrett City Associates LP,0.43%,Partner,
+,,Spring Creek Plaza LLC,0.43%,Member,
+,,,,,
+155,Shore Haven Management Corp *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,"Trump, Donald J.",,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+156,Shore Haven Shopping Center LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,DJT HOLDINGS LLC,,Member
+,,75,Trump Family Members,,Member
+,,,,,
+157,TRUMP TURNBERRY,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,Golf Recreation Scotland Limited,,Sole Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"NITTO WORLD CO., LIMITED",100%,SHAREHOLDER,
+,,,,,
+158,Sofo Realty Corp *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,,,,,
+159,"Sussex Hall, Inc *(3)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,The Donald J. Trump Revocable Trust,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+160,T International Realty LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,55,The Donald J. Trump Revocable Trust,,Managing Member
+,,45,Trump Family Members,,Member
+,,,,,
+161,TAG AIR INC *(2),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT OPERATIONS II LLC,,Shareholder
+,,,,,
+162,THC BAKU HOTEL MANAGER SERVICES LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC BAKU HOTEL MANAGER SERVICES MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+163,THC BAKU HOTEL MANAGER SERVICES MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC BAKU HOTEL MANAGER SERVICES LLC,1%,Managing Member,
+,,,,,
+164,THC BAKU SERVICES LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC BAKU SERVICES MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+165,THC BAKU SERVICES MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC BAKU SERVICES LLC,1%,Managing Member,
+,,,,,
+166,THC BARRA HOTELARIA LTDA. *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,99,DJT HOLDINGS LLC,,Shareholder
+,,1,THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP,,Shareholder
+,,,,,
+167,THC CENTRAL RESERVATIONS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC CENTRAL RESERVATIONS MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+168,THC CENTRAL RESERVATIONS MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC CENTRAL RESERVATIONS LLC,1%,Managing Member,
+,,,,,
+169,THC CHINA DEVELOPMENT LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP INTERNATIONAL HOTELS MANAGEMENT LLC,,Member
+,,,,,
+170,THC CHINA TECHNICAL SERVICES LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC CHINA TECHNICAL SERVICES MANAGER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+171,THC CHINA TECHNICAL SERVICES MANAGER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC CHINA TECHNICAL SERVICES LLC,1%,Managing Member,
+,,,,,
+172,THC DEVELOPMENT BRAZIL LLC. *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+173,THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC DEVELOPMENT BRAZIL LLC.,1%,Managing Member,
+,,THC Barra Hotelaria LTDA,1%,Managing Member,
+,,,,,
+174,THC DUBAI II HOTEL MANAGER LLC *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC DUBAI II HOTEL MANAGER MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+175,THC DUBAI II HOTEL MANAGER MEMBER CORP *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC DUBAI II HOTEL MANAGER LLC,1%,Managing Member,
+,,,,,
+176,THC HOTEL DEVELOPMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+177,THC IMEA DEVELOPMENT LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP INTERNATIONAL HOTELS MANAGEMENT LLC,,Member
+,,,,,
+178,THC MIAMI RESTAURANT HOSPITALITY LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC MIAMI RESTAURANT HOSPITALITY MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+179,THC MIAMI RESTAURANT HOSPITALITY MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC MIAMI RESTAURANT HOSPITALITY LLC,1%,Managing Member,
+,,,,,
+180,THC QATAR HOTEL MANAGER LLC *(3) -- Dissolved 1/26/17,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC QATAR HOTEL MANAGER MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+181,THC QATAR HOTEL MANAGER MEMBER CORP *(3) -- Dissolved 1/26/17,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+182,THC RIO MANAGER LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC RIO MANAGING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+183,THC RIO MANAGING MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC RIO MANAGER LLC,1%,Managing Member,
+,,,,,
+184,THC SALES & MARKETING LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC SALES & MARKETING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+185,THC SALES & MARKETING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC SALES & MARKETING LLC,1%,Managing Member,
+,,,,,
+186,THC SERVICES SHENZHEN LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC SERVICES SHENZHEN MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+187,THC SERVICES SHENZHEN MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC SERVICES SHENZHEN LLC,1%,Managing Member,
+,,,,,
+188,THC SHENZHEN HOTEL MANAGER LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC SHENZHEN HOTEL MANAGER MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+189,THC SHENZHEN HOTEL MANAGER MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC SHENZHEN HOTEL MANAGER LLC,1%,Managing Member,
+,,,,,
+190,THC VANCOUVER MANAGEMENT CORP,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+191,THC VANCOUVER PAYROLL ULC *(2),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,THC VANCOUVER MANAGEMENT CORP,,Member
+,,,,,
+192,THC VENTURE I LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,99,DJT HOLDINGS LLC,,Member
+,,1,THC VENTURE I MANAGING MEMBER CORP,,Member
+,,,,,
+193,THC VENTURE I MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC VENTURE I LLC,1%,Managing Member,
+,,,,,
+194,THC VENTURE II LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC VENTURE II MANAGING MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+195,THC VENTURE II MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM OPERATIONS MANAGING MEMBER CORP,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC VENTURE II LLC,1%,Managing Member,
+,,,,,
+196,THC VENTURE III LLC - N/K/A TTTT VENTURE LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TTTT VENTURE MEMBER CORP,,Managing Member
+,,76.272,DTTM OPERATIONS LLC,,Managing Member
+,,22.728,Trump Family Members,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT BALI GOLF MANAGER LLC,1%,Managing member,
+,,DT BALI HOTEL MANAGER LLC,99%,Member,
+,,DT BALI TECHNICAL SERVICES MANAGER LLC,99%,Member,
+,,DT LIDO GOLF MANAGER LLC,99%,Member,
+,,DT LIDO HOTEL MANAGER LLC,99%,Member,
+,,TC MARKS BUENOS AIRES LLC,100%,Member,
+,,DT TOWER GURGAON LLC,99%,Member,
+,,DT LIDO TECHNICAL SERVICES MANAGER LLC,99%,Member,
+,,,,,
+197,THC VENTURE III MEMBER CORP - N/K/A TTTT Venture Member Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC VENTURE III LLC - N/K/A TTTT VENTURE LLC *(1),1%,Managing Member,
+,,,,,
+198,THE CARIBUSINESS RE CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,CARIBUSINESS MRE LLC,1%,Managing Member,
+,,"Caribusiness Investments, S.R.L.",1%,Member,
+,,,,,
+199,"The East 61 Street Company, LP",,,,
+,Owned by:,% Ownership,Name,,Role
+,,99.9,The Donald J. Trump Revocable Trust,,Partner
+,,0.1,Plaza Consulting Corp,,Partner
+,,,,,
+200,THE TRUMP CORPORATION,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,,,,,
+201,THE TRUMP ENTREPRENEUR INITIATIVE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC),,Managing Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP EDUCATION ULC,100%,Shareholder,
+,,,,,
+202,THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC) *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,DJT ENTREPRENEUR MANAGING MEMBER LLC (FORMERLY KNOWN AS DJT UNIVERSITY MANAGING MEMBER LLC),,Managing Member
+,,3.5,"Spitalny, Jonathan",,Member
+,,4.5,"Sexton, Michael",,Member
+,,91.9,DJT ENTREPRENEUR MEMBER LLC (FORMALLY KNOWN AS DJT UNIVERSITY MEMBER LLC),,Member
+,,,,,
+203,THE TRUMP FOLLIES LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THE TRUMP FOLLIES MEMBER INC.,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+204,THE TRUMP FOLLIES MEMBER INC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THE TRUMP FOLLIES LLC,1%,Managing Member,
+,,,,,
+205,The Trump Hotel Corp *(3),,,,
+,Owned by:,% Ownership,Name,,
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+206,THE TRUMP MARKS REAL ESTATE CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS REAL ESTATE LLC,1%,Member,
+,,,,,
+207,"The Trump Organization, Inc *(3)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+208,The Trump-Equitable Fifth Avenue Company,,,,
+,Owned by:,% Ownership,Name,,Role
+,,99,The Donald J. Trump Revocable Trust,,Partner
+,,1,TIPPERARY REALTY CORPORATION,,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Fifty-Seventh Street Associates LLC,99%,Member,
+,,TRUMP TOWER COMMERCIAL LLC,99%,Member,
+,,,,,
+209,TIGL COMMON AREA MANAGEMENT CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,,,,,
+211,TRUMP INTERNATIONAL GOLF LINKS - DOONBEG,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TW VENTURE II LLC,,Sole Member
+,,,,,
+212,TIGL IRELAND MANAGEMENT LIMITED *(assets & income already disclosed on Part 2 under TRUMP INTERNATIONAL GOLF LINKS - DOONBEG; operator of suites),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP INTERNATIONAL GOLF LINKS - DOONBEG,,Sole Member
+,,,,,
+213,TIHC RESERVATIONS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+214,TIHH MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP INTERNATIONAL HOTEL HAWAII LLC,1%,Managing Member,
+,,,,,
+215,TIHH MEMBER LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP INTERNATIONAL HOTEL HAWAII LLC,99%,Managing Member,
+,,,,,
+216,TIHM MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP INTERNATIONAL HOTELS MANAGEMENT LLC,0.10%,Managing Member,
+,,,,,
+217,TIHT CHICAGO MEMBER ACQUISITION LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,401 MEZZ VENTURE LLC,50%,Member,
+,,,,,
+218,TIHT COMMERCIAL LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.01,TIHT MEMBER LLC,,Member
+,,99.99,The Donald J. Trump Revocable Trust,,Managing Member
+,,,,,
+219,TIHT HOLDING COMPANY LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+220,TIHT MEMBER LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TIHT COMMERCIAL LLC,0.01%,Member,
+,,,,,
+221,TIPPERARY REALTY CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,The Trump-Equitable Fifth Avenue Company,1%,Partner,
+,,,,,
+222,"TMG Member, LLC *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Trump Model Management LLC,85%,Member,
+,,,,,
+223,TRUMP NATIONAL GOLF CLUB - CHARLOTTE,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TNGC CHARLOTTE MANAGER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+224,TNGC CHARLOTTE MANAGER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - CHARLOTTE,1%,Managing Member,
+,,,,,
+225,TRUMP NATIONAL GOLF CLUB - HUDSON VALLEY,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TNGC DUTCHESS COUNTY MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+226,TNGC DUTCHESS COUNTY MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - HUDSON VALLEY,1%,Managing Member,
+,,,,,
+227,TNGC JUPITER MANAGEMENT LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TNGC JUPITER MANAGING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+228,TNGC JUPITER MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TNGC JUPITER MANAGEMENT LLC,1%,Managing Member,
+,,,,,
+229,TRUMP NATIONAL GOLF CLUB - PHILADELPHIA,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TNGC PINE HILL MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+230,TNGC PINE HILL MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - PHILADELPHIA,1%,Managing Member,
+,,,,,
+231,Toronto Development LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+232,TP-CFD MANAGER CORP *(3) -- Dissolved 10/18/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"TP-CF, LLC",1%,Managing Member,
+,,,,,
+233,"TP-CFD, LLC *(3) -- Dissolved 10/18/16",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TP-CFD MANAGER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+234,TRUMP 106 CPS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+235,Trump 845 LP LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Managing Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,845 UN Limited Partnership,60%,Partner,
+,,,,,
+236,TRUMP 845 UN GP LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,TRUMP 845 UN MGR CORP,,Managing Member
+,,99.9,The Donald J. Trump Revocable Trust,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,845 UN Limited Partnership,40%,Partner,
+,,,,,
+237,TRUMP 845 UN MGR CORP,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP 845 UN GP LLC,0.10%,Managing Member,
+,,,,,
+238,TRUMP 845 UN MGR LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Managing Member
+,,,,,
+239,TRUMP AC CASINO MARKS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP AC CASINO MARKS MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+240,TRUMP AC CASINO MARKS MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP AC CASINO MARKS LLC,1%,Managing Member,
+,,,,,
+241,TRUMP ACQUISITION CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"TRUMP ACQUISITIONS, LLC",1%,Managing Member,
+,,,,,
+242,"TRUMP ACQUISITION, LLC *(3)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP ACQUISITION CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+243,TRUMP BOOKS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP BOOKS MANAGER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+244,TRUMP BOOKS MANAGER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP BOOKS LLC,1%,Managing Member,
+,,,,,
+245,TRUMP BRAZIL LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+246,"TRUMP CANADIAN SERVICES, INC *(3)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,,,,,
+247,TRUMP CANOUAN ESTATE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP CANOUAN ESTATE MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+248,TRUMP CANOUAN ESTATE MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP CANOUAN ESTATE LLC,1%,Managing Member,
+,,,,,
+249,TRUMP CARIBBEAN LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,Member
+,,,,,
+250,TRUMP CAROUSEL LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP CAROUSEL MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+251,TRUMP CAROUSEL MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP CAROUSEL LLC,1%,Managing Member,
+,,,,,
+252,TRUMP CENTRAL PARK WEST CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP CAROUSEL LLC,1%,Managing Member,
+,,,,,
+253,Trump Chicago Commercial Member Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP CHICAGO COMMERCIAL MANAGER LLC,1%,Managing Member,
+,,,,,
+254,TRUMP CHICAGO COMMERCIAL MANAGER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,Trump Chicago Commercial Member Corp,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+255,TRUMP CHICAGO DEVELOPMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+256,TRUMP CHICAGO HOTEL MANAGER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,Trump Chicago Hotel Member Corp,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+257,Trump Chicago Hotel Member Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP CHICAGO HOTEL MANAGER LLC,1%,Member,
+,,,,,
+258,TRUMP CHICAGO MANAGING MEMBER LLC*(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,401 MEZZ VENTURE LLC,1%%,Member,
+,,,,,
+259,TRUMP CHICAGO MEMBER LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS LLC,,
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,401 MESS VENTURE LLC,49%,Member,
+,,,,,
+260,TRUMP CHICAGO RESIDENTIAL MANAGER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,Trump Chicago Residential Member Corp,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+261,Trump Chicago Residential Member Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP CHICAGO RESIDENTIAL MANAGER LLC,1%,Managing Member,
+,,,,,
+262,TRUMP CHICAGO RETAIL LLC *(assets & income already disclosed on Part 2 under 401 North Wabash Venture LLC; operator of retail space),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,401 MEZZ VENTURE LLC,,Member
+,,,,,
+263,TRUMP CHICAGO RETAIL MANAGER LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP CHICAGO RETAIL MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+264,TRUMP CHICAGO RETAIL MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member llC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP CHICAGO RETAIL MANAGER LLC,1%,Managing Member,
+,,,,,
+265,TRUMP CLASSIC CARS LLC *(4) -- Dissolved 10/17/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP CLASSIC CARS MEMBER CORP,,Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+266,TRUMP CLASSIC CARS MEMBER CORP *(4) -- Dissolved 10/17/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name:,Ownership,Title,
+,,TRUMP CLASSIC CARS LLC,1%,Member,
+,,,,,
+267,TRUMP COMMERCIAL CHICAGO LLC *(assets & income already disclosed on Part 2 under 401 North Wabash Venture LLC; operator of commercial space),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,401 North Wabash Venture LLC,,Member
+,,,,,
+268,TRUMP CPS CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP CPS LLC,0.10%,Managing Member,
+,,,,,
+269,TRUMP CPS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,TRUMP CPS CORP,,Managing Member
+,,99.9,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+270,TRUMP DELMONICO LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP PARK AVENUE LLC,50%,Managing Member,
+,,,,,
+271,TRUMP DEVELOPMENT SERVICES LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP DEVELOPMENT SERVICES MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+272,TRUMP DEVELOPMENT SERVICES MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP DEVELOPMENT SERVICES LLC,1%,Managing Member,
+,,,,,
+273,TRUMP DRINKS ISRAEL HOLDINGS LLC *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP DRINKS ISRAEL HOLDINGS MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+274,TRUMP DRINKS ISRAEL HOLDINGS MEMBER CORP *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP DRINKS ISRAEL HOLDINGS LLC,1%,Managing Member,
+,,,,,
+275,TRUMP DRINKS ISRAEL LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP DRINKS ISRAEL MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+276,TRUMP DRINKS ISRAEL MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"TRUMP DRINKS ISRAEL, LLC",1%,Managing Member,
+,,,,,
+277,TRUMP EDUCATION ULC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC),,Shareholder
+,,,,,
+278,TRUMP EMPIRE STATE INC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,,,,,
+279,TRUMP NATIONAL DORAL,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP ENDEAVOR 12 MANAGER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+280,TRUMP ENDEAVOR 12 MANAGER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL DORAL,1%,Managing Member,
+,,,,,
+281,TRUMP EU MARKS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP EU MARKS MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+282,TRUMP EU MARKS MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP EU MARKS LLC,1%,Managing Member,
+,,,,,
+283,TRUMP FERRY POINT LLC,,,,
+,Assumed Names:,D/B/A,Jurisdiction,,
+,,Trump Golf Links Ferry Point,Delaware,,
+,,Trump Golf Links Ferry Point,New York,,
+,,Trump Golf Links,New York,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP FERRY POINT MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+284,TRUMP FERRY POINT MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP FERRY POINT LLC,1%,Managing Member,
+,,,,,
+285,TRUMP FLORIDA MANAGEMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP FLORIDA MANAGER CORP,,Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+286,TRUMP FLORIDA MANAGER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP FLORIDA MANAGEMENT LLC,1%,Member,
+,,,,,
+287,TRUMP GOLF ACQUISITIONS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+288,TRUMP GOLF COCO BEACH LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP GOLF COCO BEACH MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+289,TRUMP GOLF COCO BEACH MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP GOLF COCO BEACH LLC,1%,Managing Member,
+,,,,,
+290,TRUMP GOLF MANAGEMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+291,TRUMP HOME MARKS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP HOME MARKS MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+292,TRUMP HOME MARKS MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP HOME MARKS LLC,1%,Managing Member,
+,,,,,
+293,TRUMP ICE INC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Shareholder
+,,,,,
+294,TRUMP ICE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+295,TRUMP INTERNATIONAL DEVELOPMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP INTERNATIONAL DEVELOPMENT MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+296,TRUMP INTERNATIONAL DEVELOPMENT MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP INTERNATIONAL DEVELOPMENT LLC,1%,Managing Member,
+,,,,,
+297,TRUMP INTERNATIONAL GOLF LINKS - SCOTLAND,,,,
+,Owned by:,% Ownership,Name,,Role
+,,99,DJT Holdings Managing Member LLC,,Member
+,,1,TRUMP SCOTLAND MEMBER INC,,Member
+,,,,,
+298,"Trump International Golf Club, Inc *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP INTERNATIONAL GOLF CLUB - FLORIDA,0.00%,Member,
+,,,,,
+299,TRUMP INTERNATIONAL GOLF CLUB - FLORIDA,,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.001,"Trump International Golf Club, Inc",,Member
+,,99.999,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+300,TRUMP INTERNATIONAL HOTEL HAWAII LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TIHH MEMBER CORP,,Managing Member
+,,99,TIHH MEMBER LLC,,Member
+,,,,,
+301,TRUMP INTERNATIONAL HOTELS MANAGEMENT LLC,,,,
+,Assumed Names:,D/B/A,Jurisdiction,,
+,,TRUMP HOTEL COLLECTION,Hawaii,,
+,,TRUMP HOTEL COLLECTION,New York,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,TIHM MEMBER CORP,,Managing Member
+,,99.9,DJT Holdings LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC CHINA DEVELOPMENT LLC,100,Member,
+,,THC IMEA DEVELOPMENT LLC,100,Member,
+,,,,,
+302,TRUMP JETS LLC *(3) -- Dissolved 11/9/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,SENTIENT JETS MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+303,Trump Korea LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,41,DAEWOO AMERICA DEVELOPMENT (NEW YORK) CORP,,Member
+,,59,TRUMP KOREAN PROJECTS LLC,,Member
+,,,,,
+304,TRUMP KOREAN PROJECTS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Trump Korea LLC,59%,Member,
+,,,,,
+305,TRUMP LAS OLAS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP LAS OLAS MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+306,TRUMP LAS OLAS MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP LAS OLAS LLC,1%,Managing Member,
+,,,,,
+307,TRUMP LAS VEGAS CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP LAS VEGAS MANAGING MEMBER LLC,6%,Managing Member,
+,,TRUMP LAS VEGAS MEMBER LLC,6%,Managing Member,
+,,,,,
+308,TRUMP LAS VEGAS DEVELOPMENT LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+309,TRUMP LAS VEGAS MANAGING MEMBER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,6,TRUMP LAS VEGAS CORP,,Member
+,,94,DJT HOLDINGS LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP RUFFIN LLC,1%,Managing Member,
+,,,,,
+310,TRUMP LAS VEGAS MEMBER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,6,TRUMP LAS VEGAS CORP,,Member
+,,94,DJT HOLDINGS LLC,,Managing Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP RUFFIN LLC,49%,Member,
+,,,,,
+311,"Trump Las Vegas Sales & Marketing, Inc",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,,,,,
+312,TRUMP LAUDERDALE DEVELOPMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+313,TRUMP LAUDERDALE DEVELOPMENT NO 2 LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+314,TRUMP MARKETING LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+315,TRUMP MARKS ASIA CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS ASIA LLC,1%,Managing Member,
+,,,,,
+316,TRUMP MARKS ASIA LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS ASIA CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+317,TRUMP MARKS ATLANTA LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS ATLANTA MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+318,TRUMP MARKS ATLANTA MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS ATLANTA LLC,1%,Managing Member,
+,,,,,
+319,TRUMP MARKS BAJA CORP *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS BAJA LLC,1%,Managing Member,
+,,,,,
+320,TRUMP MARKS BAJA LLC *(3)-- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS BAJA CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+321,TRUMP MARKS BATUMI LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS BATUMI MANAGING MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+322,TRUMP MARKS BATUMI MANAGING MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS BATUMI LLC,1%,Managing Member,
+,,,,,
+323,TRUMP MARKS BEVERAGES CORP *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS BEVERAGES LLC,1%,Managing Member,
+,,,,,
+324,TRUMP MARKS BEVERAGES LLC *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS BEVERAGES CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+325,TRUMP MARKS CANOUAN CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS CANOUAN LLC,1%,Managing Member,
+,,,,,
+326,TRUMP MARKS CANOUAN LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS CANOUAN CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+327,TRUMP MARKS CHICAGO LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS CHICAGO MEMBER CORP,,Managing Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+328,TRUMP MARKS CHICAGO MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS CHICAGO LLC,1%,Managing Member,
+,,,,,
+329,TRUMP MARKS DUBAI CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS DUBAI LLC,1%,Managing Member,
+,,,,,
+330,TRUMP MARKS DUBAI LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS DUBAI CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+331,TRUMP MARKS EGYPT CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS EGYPT LLC,1%,Managing Member,
+,,,,,
+332,TRUMP MARKS EGYPT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS EGYPT CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+333,TRUMP MARKS FINE FOODS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS FINE FOODS MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+334,TRUMP MARKS FINE FOODS MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS FINE FOODS LLC,1%,Managing Member,
+,,,,,
+335,TRUMP MARKS FT LAUDERDALE LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS FT LAUDERDALE MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+336,TRUMP MARKS FT LAUDERDALE MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS FT LAUDERDALE LLC,1%,Managing Member,
+,,,,,
+337,TRUMP MARKS GP CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,,,,,
+338,TRUMP MARKS HOLDINGS LP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS GP CORP,,Partner
+,,99,DTTM Operations LLC,,Parter
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS LLC,100%,Member,
+,,,,,
+339,TRUMP MARKS HOLLYWOOD CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS HOLLYWOOD LLC,1%,Managing Member,
+,,,,,
+340,TRUMP MARKS HOLLYWOOD LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS HOLLYWOOD CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+341,TRUMP MARKS ISTANBUL II CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS ISTANBUL II LLC,1%,Managing Member,
+,,,,,
+342,TRUMP MARKS ISTANBUL II LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS ISTANBUL II CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+343,TRUMP MARKS JERSEY CITY CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS JERSEY CITY LLC,1%,Managing Member,
+,,,,,
+344,TRUMP MARKS JERSEY CITY LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS JERSEY CITY CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+345,TRUMP MARKS LAS VEGAS CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS LAS VEGAS LLC,1%,Managing Member,
+,,,,,
+346,TRUMP MARKS LAS VEGAS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS LAS VEGAS CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+347,TRUMP MARKS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP MARKS HOLDINGS LP,,Member
+,,,,,
+348,TRUMP MARKS MAGAZINE CORP *(3) -- DISSOLVED 11/9/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS MAGAZINE LLC,1%,Managing Member,
+,,,,,
+349,TRUMP MARKS MAGAZINE LLC *(3) -- DISSOLVED 11/9/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS MAGAZINE CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+350,TRUMP MARKS MATTRESS LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS MATTRESS MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+351,TRUMP MARKS MATTRESS MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS MATTRESS LLC,1%,Managing Member,
+,,,,,
+352,TRUMP MARKS MENSWEAR LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS MENSWEAR MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+353,TRUMP MARKS MENSWEAR MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS MENSWEAR LLC,1%,Managing Member,
+,,,,,
+354,TRUMP MARKS MORTGAGE CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS MTG LLC,1%,Managing Member,
+,,,,,
+355,TRUMP MARKS MTG LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS MORTGAGE CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+356,TRUMP MARKS MUMBAI LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS MUMBAI MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+357,TRUMP MARKS MUMBAI MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS MUMBAI LLC,1%,Managing Member,
+,,,,,
+358,TRUMP MARKS NEW ROCHELLE CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS NEW ROCHELLE LLC,1%,Managing Member,
+,,,,,
+359,TRUMP MARKS NEW ROCHELLE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS NEW ROCHELLE CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+360,TRUMP MARKS PALM BEACH CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS PALM BEACH LLC,1%,Managing Member,
+,,,,,
+361,TRUMP MARKS PALM BEACH LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS PALM BEACH CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+362,TRUMP MARKS PANAMA CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS PANAMA LLC,1%,Managing Member,
+,,,,,
+363,TRUMP MARKS PANAMA LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS PANAMA CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+364,TRUMP MARKS PHILADELPHIA CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS PHILADELPHIA LLC,1%,Managing Member,
+,,,,,
+365,TRUMP MARKS PHILADELPHIA LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS PHILADELPHIA CORP,,Managing Member
+,,99,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+366,TRUMP MARKS PHILIPPINES CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS PHILIPPINS LLC,1%,Managing Member,
+,,,,,
+367,TRUMP MARKS PHILIPPINES LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS PHILIPPINES CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+368,TRUMP MARKS PRODUCTS LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS PRODUCTS MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+369,TRUMP MARKS PRODUCTS MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS PRODUCTS LLC,1%,Managing Member,
+,,,,,
+370,TRUMP MARKS PUERTO RICO I LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS PUERTO RICO I MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+371,TRUMP MARKS PUERTO RICO I MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS PUERTO RICO I LLC,1%,Managing Member,
+,,,,,
+372,TRUMP MARKS PUERTO RICO II LLC *(3) -- DISSOLVED 11/9/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS PUERTO RICO II MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+373,TRUMP MARKS PUERTO RICO II MEMBER CORP *(3) -- DISSOLVED 11/10/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS PUERTO RICO II LLC,1%,Managing Member,
+,,,,,
+374,TRUMP MARKS PUNTA DEL ESTE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS PUNTA DEL ESTE MANAGER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+375,TRUMP MARKS PUNTA DEL ESTE MANAGER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS PUNTA DEL ESTE LLC,1%,Managing Member,
+,,,,,
+376,TRUMP MARKS REAL ESTATE LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THE TRUMP MARKS REAL ESTATE CORP,,Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+377,TRUMP MARKS SOHO LICENSE CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS SOHO LLC,1%,Member,
+,,,,,
+378,TRUMP MARKS SOHO LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS SOHO LICENSE CORP,,Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+379,TRUMP MARKS STAMFORD CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS STAMFORD LLC,1%,Member,
+,,,,,
+380,TRUMP MARKS STAMFORD LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,99,DTTM OPERATIONS LLC,,Member
+,,1,TRUMP MARKS STAMFORD CORP,,Member
+,,,,,
+381,TRUMP MARKS SUNNY ISLES I LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS SUNNY ISLES I MEMBER CORP,,Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+382,TRUMP MARKS SUNNY ISLES I MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS SUNNY ISLES I LLC,1%,Member,
+,,,,,
+383,TRUMP MARKS SUNNY ISLES II LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS SUNNY ISLES II MEMBER CORP,,Member
+,,99,DTTM OPERATIONS LLC,,Member
+,,,,,
+384,TRUMP MARKS SUNNY ISLES II MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS SUNNY ISLES II LLC,1%,Member,
+,,,,,
+385,TRUMP MARKS TAMPA CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,,,,,
+386,TRUMP MARKS TAMPA LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS TAMPA CORP,,Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+387,TRUMP MARKS TORONTO CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS TORONTO LLC,1%,Member,
+,,,,,
+388,TRUMP MARKS TORONTO LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS TORONTO CORP,,Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+389,TRUMP MARKS TORONTO LP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP TORONTO MEMBER CORP,,Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+390,TRUMP MARKS WAIKIKI CORP *(1),,,,
+,Owned by:,% Ownerhip,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS WAIKIKI LLC,1%,Managing Member,
+,,,,,
+391,TRUMP MARKS WAIKIKI LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS WAIKIKI CORP,,Managing Member
+,,99,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+392,TRUMP MARKS WESTCHESTER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS WESTCHESTER LLC,1%,Managing Member,
+,,,,,
+393,TRUMP MARKS WESTCHESTER LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS WESTCHESTER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+394,TRUMP MARKS WHITE PLAINS CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS WHITE PLAINS LLC,1%,Managing Member,
+,,,,,
+395,TRUMP MARKS WHITE PLAINS LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MARKS WHITE PLAINS CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+396,TRUMP MIAMI RESORT MANAGEMENT LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP MIAMI RESORT MANAGEMENT MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+397,TRUMP MIAMI RESORT MANAGEMENT MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MIAMI RESORT MANAGEMENT LLC,1%,Managing Member,
+,,,,,
+398,TRUMP MODEL MANAGEMENT LLC,,,,
+,Assumed Names:,D/B/A,Jurisdiction,,
+,,TRUMP MODELS,New York,,
+,Owned by:,% Ownership,Name,,Role
+,,15,Annie Veltri,,Member
+,,85,"TMG Member, LLC",,Member
+,,,,,
+399,TRUMP NATIONAL GOLF CLUB - COLTS NECK,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP NATIONAL GOLF CLUB COLTS NECK MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+400,TRUMP NATIONAL GOLF CLUB COLTS NECK MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - COLTS NECK,1%,Managing Member,
+,,,,,
+401,TRUMP NATIONAL GOLF CLUB - WESTCHESTER,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP NATIONAL GOLF CLUB MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Managing Member
+,,,,,
+402,TRUMP NATIONAL GOLF CLUB MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - WESTCHESTER,1%,Managing Member,
+,,,,,
+403,TRUMP NATIONAL GOLF CLUB - WASHINGTON DC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP NATIONAL GOLF CLUB WASHINGTON DC MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,Member,
+,,,,,
+404,TRUMP NATIONAL GOLF CLUB WASHINGTON DC MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP NATIONAL GOLF CLUB - WASHINGTON DC,1%,Managing Member,
+,,,,,
+405,Trump New World Property Management LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,50,New World Property Management Limited,,Managing Member
+,,50,TRUMP RIVERSIDE MANAGEMENT LLC,,Managing Member
+,,,,,
+406,"TRUMP OCEAN MANAGER, INC *(3) -- DISSOLVED 11/10/16",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP OCEAN MANAGING MEMBER LLC,1%,Managing Member,
+,,,,,
+407,TRUMP OCEAN MANAGING MEMBER LLC *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,"TRUMP OCEAN MANAGER, INC",,Managing Member
+,,99,"Trump, Donald J.",,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP ON THE OCEAN LLC,75%,Managing Member,
+,,,,,
+408,TRUMP OLD POST OFFICE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP OLD POST OFFICE MEMBER CORP,,Managing Member
+,,76.725,DJT HOLDINGS LLC,,Member
+,,22.275,Trump Family Members,,Member
+,,,,,
+409,TRUMP OLD POST OFFICE MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,77.5,DJT Holdings Managing Member LLC,,Shareholder
+,,22.5,Trump Family Members,,
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP OLD POST OFFICE LLC,1%,Managing Member,
+,,,,,
+410,TRUMP ON THE OCEAN LLC *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,SMC Ocean LLC,,Member
+,,75,TRUMP OCEAN MANAGING MEMBER LLC,,Managing Member
+,,,,,
+411,TRUMP ORGANIZATION LLC *(3),,,,
+,Assumed Names,D/B/A,Jurisdiction,,
+,,The Trump Organization,New York,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+412,"TRUMP PAGEANTS, INC *(1)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,"Miss Universe LP, LLLP",2%,Partner,
+,,,,,
+413,"Miss Universe LP, LLLP",,,,
+,Owned by:,% Ownership,Name,,Role
+,,2,"TRUMP PAGEANTS, INC",,Partner
+,,98,DJT Holdings LLC,,Partner
+,,,,,
+414,TRUMP PALACE/PARC LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,FIRST MEMBER INC,,Managing Member
+,,99.9,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+415,TRUMP PANAMA CONDOMINIUM MANAGEMENT LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP PANAMA CONDOMINIUM MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+416,TRUMP PANAMA CONDOMINIUM MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP PANAMA CONDOMINIUM MANAGEMENT LLC,1%,Managing Member,
+,,,,,
+417,TRUMP PANAMA HOTEL MANAGEMENT LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP PANAMA HOTEL MANAGEMENT MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+418,TRUMP PANAMA HOTEL MANAGEMENT MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP PANAMA HOTEL MANAGEMENT LLC,1%,Managing Member,
+,,,,,
+419,TRUMP PARK AVENUE ACQUISITION LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP PARK AVENUE LLC,49.90%,Member,
+,,,,,
+420,TRUMP PARK AVENUE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,0.1,GEPT Delmonico LLC,,Member
+,,49.9,TRUMP PARK AVENUE ACQUISITION LLC,,Member
+,,50,TRUMP DELMONICO LLC,,Managing Member
+,,,,,
+421,TRUMP PAYROLL CHICAGO LLC *(2),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,401 North Wabash Venture LLC,,Managing Member
+,,,,,
+422,TRUMP PAYROLL CORP *(),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,,,,,
+423,TRUMP PHOENIX DEVELOPMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Shareholder
+,,,,,
+424,TRUMP PLAZA LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP PLAZA MEMBER INC,,Managing Member
+,,99,"The Donald J. Trump Revocable Trust",,Member
+,,,,,
+425,TRUMP PLAZA MEMBER INC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP PLAZA LLC,1%,Managing Member,
+,,,,,
+426,TRUMP PRODUCTIONS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP PRODUCTIONS MANAGING MEMBER INC,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+427,TRUMP PRODUCTIONS MANAGING MEMBER INC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP PRODUCTIONS LLC,1%,Managing Member,
+,,,,,
+428,TRUMP PROJECT MANAGEMENT CORP *(3) -- DISSOLVED 11/10/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,,,,,
+429,TRUMP REALTY SERVICES LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+430,Trump Restaurants LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+431,TRUMP RIVERSIDE MANAGEMENT LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Trump New World Property Management LLC,50%,Managing Member,
+,,,,,
+432,TRUMP RUFFIN COMMERCIAL LLC *(assets & income already siclosed on Part 2 under TRUMP RUFFIN TOWER I LLC; operator of front desk),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP RUFFIN TOWER I LLC,,Managing Member
+,,,,,
+433,TRUMP RUFFIN LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP LAS VEGAS MANAGING MEMBER LLC,,Managing Member
+,,49,TRUMP LAS VEGAS MEMBER LLC,,Member
+,,50,"Hyde Park, LLC",,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP RUFFIN TOWER I LLC,100%,Managing Member,
+,,,,,
+434,TRUMP RUFFIN TOWER I LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP RUFFIN LLC,,Managing Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP RUFFIN COMMERCIAL LLC,100%,Managing Member,
+,,,,,
+435,TRUMP SALES & LEASING CHICAGO LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP SALES & LEASING CHICAGO MEMBER CORP,,Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+436,TRUMP SALES & LEASING CHICAGO MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP SALES & LEASING CHICAGO LLC,1%,Member,
+,,,,,
+437,TRUMP SCOTLAND MEMBER INC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP INTERNATIONAL GOLF LINKS - SCOTLAND,1%,Member,
+,,,,,
+438,TRUMP SCOTSBOROUGH SQUARE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP SCOTSBOROUGH SQUARE MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+439,TRUMP SCOTSBOROUGH SQUARE MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP SCOTSBOROUGH SQUARE LLC,1%,Managing Member,
+,,,,,
+440,TRUMP SOHO MEMBER LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+441,"TRUMP TORONTO DEVELOPMENT, INC *(4)",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,,,,,
+442,TRUMP TORONTO HOTEL MANAGEMENT CORP,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,,,,,
+443,TRUMP TORONTO MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP MARKS TORONTO LP,1%,Member,
+,,,,,
+444,TRUMP TOWER COMMERCIAL LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP TOWER MANAGING MEMBER INC,,Managing Member
+,,99,The Trump-Equitable Fifth Avenue Company,,Member
+,,,,,
+445,TRUMP TOWER MANAGING MEMBER INC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,Has ownership interest in:,Enity Name,Ownership,Title,
+,,TRUMP TOWER COMMERCIAL LLC,1%,Managing Member,
+,,,,,
+446,Trump Village Construction Corp *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,The Donald J. Trump Revocable Trust,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,Starrett City Associates LP,0.46%,Partner,
+,,Spring Creek Plaza LLC,0.46%,Member,
+,,,,,
+447,TRUMP VINEYARD ESTATES LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP VINEYARD ESTATES MANAGER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP VINEYARD ESTATES LOT 3 OWNER LLC,100%,Member,
+,,,,,
+448,TRUMP VINEYARD ESTATES LOT 3 OWNER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP VINEYARD ESTATES LLC,,Member
+,,,,,
+449,TRUMP VINEYARD ESTATES MANAGER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP VINEYARD ESTATES LLC,1%,Managing Member,
+,,,,,
+450,TRUMP VIRGINIA ACQUISITIONS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP VIRGINIA ACQUISITIONS MANAGER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+451,TRUMP VIRGINIA ACQUISITIONS MANAGER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP VIRGINIA ACQUISITIONS LLC,1%,Managing Member,
+,,,,,
+452,TRUMP VIRGINIA LOT 5 LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP VIRGINIA LOT 5 MANAGER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+453,TRUMP VIRGINIA LOT 5 MANAGER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP VIRGINIA LOT 5 LLC,1%,Managing Member,
+,,,,,
+454,TRUMP WINE MARKS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP WINE MARKS MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+455,TRUMP WINE MARKS MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP WINE MARKS LLC,1%,Managing Member,
+,,,,,
+456,TRUMP WORLD PRODUCTIONS LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TRUMP WORLD PRODUCTIONS MANAGER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+457,TRUMP WORLD PRODUCTIONS MANAGER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP WORLD PRODUCTIONS LLC,1%,Managing Member,
+,,,,,
+458,TRUMP WORLD PUBLICATIONS LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+459,TRUMP'S CASTLE MANAGEMENT CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Shareholder
+,,,,,
+460,TURNBERRY SCOTLAND LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TURNBERRY SCOTLAND MANAGING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+461,TURNBERRY SCOTLAND MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TURNBERRY SCOTLAND LLC,1%,Managing Member,
+,,,,,
+462,TW VENTURE I LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TW VENTURE I MANAGING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+463,TW VENTURE I MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TW VENTURE I LLC,1%,Managing Member,
+,,,,,
+464,TW VENTURE II LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,TW VENTURE II MANAGING MEMBER CORP,,Manaing Member
+,,99,DJT HOLDINGS LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TRUMP INTERNATIONAL GOLF LINKS - DOONBEG,100%,Shareholder,
+,,,,,
+465,TW VENTURE II MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,TW VENTURE II LLC,1%,Managing Member,
+,,,,,
+466,ULTIMATE AIR CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,,,,,
+467,UNIT 2502 ENTERPRISES CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,UNIT 2502 ENTERPRISES LLC,1%,Managing Member,
+,,,,,
+468,UNIT 2502 ENTERPRISES LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,UNIT 2502 ENTERPRISES CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+469,TRUMP NATIONAL GOLF CLUB - LOS ANGELES,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,RPV DEVELOPMENT LLC,,Shareholder
+,,,,,
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,VHPS LLC,100%,Managing Member,
+,,,,,
+470,VHPS LLC *(assets & income already disclosed on Part 2 under TRUMP NATIONAL GOLF CLUB - LOS ANGELES; owner of vacant land),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TRUMP NATIONAL GOLF CLUB - LOS ANGELES,,Managing Member
+,,,,,
+471,WEST PALM OPERATIONS LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+472,Wexford Hall Inc *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,The Donald J. Trump Revocable Trust,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+473,WHITE COURSE LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,WHITE COURSE MANAGING MEMBER CORP,,Managing Member
+,,99,DJT HOLDINGS LLC,,Member
+,,,,,
+474,WHITE COURSE MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,WHITE COURSE LLC,1%,Managing Member,
+,,,,,
+475,Wilshire Hall LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,75,Trump Family Members,,Member
+,,25,DJT Holdings LLC,,
+,,,,,
+476,Wollman Rink Operations LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+477,YORKTOWN REAL ESTATE LLC (F/K/A Yorktown Development Associates LLC) *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+478,"HWA 555 Owners, LLC",,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Hudson Waterfront Associates I, LP",,Partner
+,,,,,
+479,"1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON",,,,
+,Owned by:,% Ownership,Name,,Role
+,,52,HWA 1290 III LLC,,Partner
+,,20.2,HWA 1290 IV LLC,,Partner
+,,27.8,HWA 1290 V LLC,,Partner
+,,,,,
+480,"Trump Management, Inc",,,,
+,Owned by:,% Ownership,Name,,Role
+,,25,The Donald J. Trump Revocable Trust,,Shareholder
+,,75,Trump Family Members,,Shareholder
+,,,,,
+481,HWA 1290 III LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Hudson Waterfront Associates III, LP",,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,1290 Avenue of the Americas,52%,Partner,
+,,,,,
+482,HWA 1290 IV LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Hudson Waterfront Associates IV, LP",,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,1290 Avenue of the Americas,20.20%,Partner,
+,,,,,
+483,HWA 1290 V LLC *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Hudson Waterfront Associates V, LP",,Partner
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,1290 Avenue of the Americas,27.80%,Partner,
+,,,,,
+,,,,,
+485,THC China Development Management Corp *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,,,,,
+486,Travel Enterprises Management Inc *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,,,,,
+487,Trump Las Vegas Marketing and Sales LLC *(3) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Member
+,,,,,
+,,,,,
+,,,,,
+490,The Donald J. Trump Company LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+,,,,,
+,,,,,
+493,DT BALI GOLF MANAGER LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT BALI GOLF MANAGER MEMBER CORP,,Managing Member
+,,99,TTTT Venture LLC,,Member
+,,,,,
+494,DT BALI GOLF MANAGER MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT BALI GOLF MANAGER,1%,Managing Member,
+,,,,,
+495,DT BALI HOTEL MANAGER LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT BALI HOTEL MANAGER MEMBER CORP,,Managing Member
+,,99,TTTT Venture LLC,,Member
+,,,,,
+496,DT BALI HOTEL MANAGER MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT BALI HOTEL MANAGER LLC,1%,Managing Member,
+,,,,,
+497,DT BALI TECHNICAL SERVICES MANAGER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT BALI TECHNICAL SERVICES MANAGER MEMBER CORP,,Managing Member
+,,99,TTTT Venture LLC,,Member
+,,,,,
+498,DT BALI TECHNICAL SERVICES MANAGER MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT BALI TECHNICAL SERVICES MANAGER LLC,1%,Managing Member,
+,,,,,
+499,DT CONNECT EUROPE LIMITED,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,Golf Recreation Scotland Limited,,Partner
+,,,,,
+500,DT ENDEAVOR I LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+501,DT JEDDAH TECHNICAL SERVICES ADVISOR LLC *(4) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT JEDDAH TECHNICAL SERVICES ADVISOR MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+502,DT JEDDAH TECHNICAL SERVICES ADVISOR MEMBER CORP *(4) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT JEDDAH TECHNICAL SERVICES ADVISOR LLC,1%,Managing Member,
+,,,,,
+503,DT JEDDAH TECHNICAL SERVICES MANAGER LLC *(4) -- dissolved 11/15/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT JEDDAH TECHNICAL SERVICES MANAGER MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+504,DT JEDDAH TECHNICAL SERVICES MANAGER MEMBER CORP *(4) -- dissolved 11/15/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT JEDDAH TECHNICAL SERVICES MANAGER LLC,1%,Managing Member,
+,,,,,
+505,DT LIDO GOLF MANAGER LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT LIDO GOLF MANAGER MEMBER CORP,,Managing Member
+,,99,TTTT Venture LLC,,Member
+,,,,,
+506,DT LIDO GOLF MANAGER MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name:,Ownership,Title,
+,,DT LIDO GOLF MANAGER LLC,1%,Managing Member,
+,,,,,
+507,DT LIDO HOTEL MANAGER LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT LIDO HOTEL MANAGER MEMBER CORP,,Managing Member
+,,99,TTTT Venture LLC,,Member
+,,,,,
+508,DT LIDO HOTEL MANAGER MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT LIDO HOTEL MANAGER LLC,1%,Managing Member,
+,,,,,
+509,DT LIDO TECHNICAL SERVICES MANAGER LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP,,Managing Member
+,,99,TTTT Venture LLC,,Member
+,,,,,
+510,DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP,1%,Managing Member,
+,,,,,
+511,DT MARKS BALI LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS BALI MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+512,DT MARKS BALI MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT MARKS BALI LLC,1%,Managing Member,
+,,,,,
+513,DT MARKS LIDO LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT MARKS LIDO MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+514,DT MARKS LIDO MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT MARKS LIDO LLC,1%,Managing Member,
+,,,,,
+515,DT TOWER I LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT TOWER I MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+516,DT TOWER I MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT TOWER I LLC,1%,Managing Member,
+,,,,,
+517,DT TOWER KOLKATA LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DT TOWER KOLKATA MANAGING MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+518,DT TOWER KOLKATA MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DT TOWER KOLKATA LLC,1%,Member,
+,,,,,
+519,DTTM OPERATIONS LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DTTM OPERATIONS MANAGING MEMBER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC VENTURE III LLC - N/K/A TTTT VENTURE LLC *(1),76.272,Member,
+,,,,,
+520,DTTM OPERATIONS MANAGING MEMBER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DTTM OPERATIONS LLC,1%,Managing Member,
+,,,,,
+521,EID VENTURE II LLC *(2),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,EID VENTURE II MEMBER CORP,,Managing Member
+,,99,The Donald J. Trump Revocable Trust ,,Member
+,,,,,
+522,EID VENTURE II MEMBER CORP *(2),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust ,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,EID VENTURE II LLC,1%,Managing Member,
+,,,,,
+523,MOBILE PAYROLL CONSTRUCTION LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,MOBILE PAYROLL CONSTRUCTION MANAGER CORP,,Managing Member
+,,99,DJT Holdings LLC,,Member
+,,,,,
+524,MOBILE PAYROLL CONSTRUCTION MANAGER CORP *(1),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings Managing Member LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,MOBILE PAYROLL CONSTRUCTION LLC,1%,Managing Member,
+,,,,,
+525,THC DC RESTAURANT HOSPITALITY LLC *(1),,,,
+,Owned by:,% Ownership,Name,,role
+,,100,OPO HOTEL MANAGER LLC,,Member
+,,,,,
+526,THC JEDDAH HOTEL ADVISOR LLC *(4) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC JEDDAH HOTEL ADVISOR MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+527,THC JEDDAH HOTEL ADVISOR MEMBER CORP *(4) -- no longer reportable,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC JEDDAH HOTEL ADVISOR LLC,1%,Managing Member,
+,,,,,
+528,THC JEDDAH HOTEL MANAGER LLC *(4) --DISSOLVED 11/15/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,THC JEDDAH HOTEL MANAGER MEMBER CORP,,Managing Member
+,,99,"Trump, Donald J.",,Member
+,,,,,
+529,THC JEDDAH HOTEL MANAGER MEMBER CORP *(4)--DISSOLVED 11/15/16,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,"Trump, Donald J.",,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,THC JEDDAH HOTEL MANAGER LLC,1%,Managing Member,
+,,,,,
+530,C DEVELOPMENT VENTURES LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,C DEVELOPMENT VENTURES MEMBER CORP,,Managing Member
+,,99,DTTM Operations LLC,,Member
+,,,,,
+531,C DEVELOPMENT VENTURES MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,C DEVELOPMENT VENTURES LLC,1%,Managing Member,
+,,,,,
+532,TC MARKS BUENOS AIRES LLC *(4) -- DISSOLVED 1/26/17,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TTTT VENTURE LLC,,Member
+,,,,,
+533,DT VENTURE I LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+534,DT VENTURE I MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,,,,,
+535,DT VENTURE II LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT Holdings LLC,,Member
+,,,,,
+536,DT VENTURE II MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,,,,,
+537,DT TOWER II LLC *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,DTTM Operations LLC,,Member
+,,99,DT TOWER II MEMBER CORP,,Managing Member
+,,,,,
+538,DT TOWER II MEMBER CORP *(4),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,DTTOWER II LLC,99%,Managing Member,
+,,,,,
+539,DT ENDEAVOR I MEMBER CORP *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DTTM Operations Managing Member Corp,,Shareholder
+,,,,,
+540,4T HOLDINGS ONE LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TTTT VENTURE LLC,,Member
+,,,,,
+541,4T HOLDINGS TWO LLC *(3),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,TTTT VENTURE LLC,,Member
+,,,,,
+542,STORAGE 106 LLC,,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,The Donald J. Trump Revocable Trust,,Member
+,,,,,
+543,T EXPRESS LLC *(5),,,,
+,Owned by:,% Ownership,Name,,Role
+,,1,T EXPRESS MANAGER MEMBER CORP,,Managing Member
+,,99,TTTT VENTURE LLC,,Member
+,,,,,
+544,T EXPRESS MANAGER MEMBER CORP *(11),,,,
+,Owned by:,% Ownership,Name,,Role
+,,100,DJT HOLDINGS MANAGING MEMBER LLC,,Shareholder
+,Has ownership interest in:,Entity Name,Ownership,Title,
+,,T EXPRESS LLC,1%,Managing Member,
